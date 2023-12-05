@@ -1,4 +1,4 @@
-# GastropodChemTrailTracking
+# Experimental Prototype and Gastropod Dataset for run testing
 Automatic Gastropod Chemtrail Tracking
 
 The Dataset found within this repository represents a few unique runs extracted from the original dataset.
