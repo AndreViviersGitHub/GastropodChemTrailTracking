@@ -3,4 +3,4 @@ Automatic Gastropod Chemtrail Tracking
 
 The Dataset found within this repository represents a few unique runs extracted from the original dataset.
 
-For the full dataset, please contact :
+For the entire dataset, please contact : s215134982@mandela.ac.za
